@@ -1,6 +1,4 @@
-# Titanic-People-Database
-
-Titanic People Database
+# Titanic People Database
 
 This spreadsheet was originally created for an exhibit I directed at Open Sauce 2025 titled “Would You Have Survived the Titanic?” It served as the backend for calculating survival odds across different age groups, which were then turned into percentages used in one of the tests attendees completed during the exhibit.
 
