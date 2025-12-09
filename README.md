@@ -10,15 +10,15 @@ The final sheet contains work I did to calculate dimensions for a memorial-style
 
 -------------------------------------------------------------------------------------------------------------
 
-Data Notice
+Data Notice:
 
 The original version of this spreadsheet used real passenger information that I legally purchased from Encyclopedia Titanica. Because that data is copyrighted and cannot be redistributed, the version included in this portfolio contains fully dummy, non-historical sample data used solely to demonstrate structure and functionality.
 
 -------------------------------------------------------------------------------------------------------------
 
-Tools Used
+Tools Used:
 
-Google Sheets
+**Google Sheets**
 
 Core formulas: SUM, DIVIDE, COUNTIF
 
@@ -29,7 +29,7 @@ Group/classification logic
 Sheet organization and data cleaning
 
 
-Affinity Publisher
+**Affinity Publisher**
 
 Auto Merge feature used to generate passenger cards from spreadsheet data
 
@@ -37,26 +37,26 @@ Custom-designed card template
 
 -------------------------------------------------------------------------------------------------------------
 
-Skills Demonstrated
+Skills Demonstrated:
 
 This project reflects several analyst-relevant competencies:
 
-Data Cleaning & Preparation
+**Data Cleaning & Preparation**
 Organizing mixed historical data into a structured, usable database.
 
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 Breaking down survival rates by age bracket and demographic grouping.
 
-Statistical Summaries
+**Statistical Summaries**
 Computing percentage-based survival odds using spreadsheet formulas.
 
-Classification & Categorization
+**Classification & Categorization**
 Sorting passengers into groups for exhibit logic and survival modeling.
 
-Documentation & Workflow Design
+**Documentation & Workflow Design**
 Developing a clear, multi-sheet file used in an interactive public exhibit.
 
-Automation for Publishing
+**Automation for Publishing**
 Integrating spreadsheet data with Affinity Publisher to auto-generate attendee cards.
 
 -------------------------------------------------------------------------------------------------------------
